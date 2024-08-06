@@ -12,3 +12,9 @@
     width: 25%;
     height: 100px;
 }
+
+.ImagenesInformativas{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
